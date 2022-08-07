@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MADT/LabTest2/app/src/main/res/drawable/photo.xml" value="0.124" />
+        <entry key="..\:/MADT/LabTest2/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/MADT/LabTest2/app/src/main/res/layout/activity_search_contacts.xml" value="0.11197916666666667" />
+        <entry key="..\:/MADT/LabTest2/app/src/main/res/layout/activity_view_contacts.xml" value="0.22826086956521738" />
+        <entry key="..\:/MADT/LabTest2/app/src/main/res/layout/app_bar_layout.xml" value="0.22826086956521738" />
+        <entry key="..\:/MADT/LabTest2/app/src/main/res/layout/contact_items.xml" value="0.22826086956521738" />
+        <entry key="..\:/MADT/LabTest2/app/src/main/res/layout/photo.xml" value="0.22826086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
